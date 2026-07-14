@@ -1,2 +1,2 @@
 # Documentação
-Repositório com todas as documentações pedidas na segunda entrega do Projeto Integrador.
+Repositório com todas as documentações pedidas no projeto.
